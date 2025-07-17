@@ -1,6 +1,4 @@
-
-## Hi there 👋
-  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/49/1e/cf/491ecfcebd2192e29b758ca798717ec6.gif">
+  <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/49/1e/cf/491ecfcebd2192e29b758ca798717ec6.gif">
 <!--
 **DerickDesenvolveAlgo/DerickDesenvolveAlgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
