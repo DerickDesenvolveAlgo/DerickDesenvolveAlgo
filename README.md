@@ -1,8 +1,8 @@
 <div>
-  <h1>THIS IS ME RN!!!!!</h1>
+  <h2 Align ="center">THIS IS ME RN!!!!!</h2>
   <img align="center" alt="Coding" width="1920" src="https://i.pinimg.com/originals/49/1e/cf/491ecfcebd2192e29b758ca798717ec6.gif">
 <p align="center">
-  
+
 </div>
   
 
@@ -30,7 +30,7 @@ I expect to help out in whatever i can, right now i just want to improve my prog
 
  ### Programming Languages that i'm learning
 
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C#" width="24">] | [<img src=["(https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png)" alt="HTML" width="38">]  | 
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C#" width="24">] | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="38">]  | 
 |---|---|
  
 ### Tools 🛠️
