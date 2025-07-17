@@ -5,18 +5,17 @@
 
 </div>
   
-
- <img width="350px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" " alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+ <h1 align="center">Stuff</h1>
+ 
 </p>
 
 
 ### Hi there i'm Derick and i'm sometimes making something
 <p>
-  > Dev in "Ruina abissal"
+⭐ Dev in "Ruina abissal"
 </p> 
 <p>
-  > Dev in [River's Fable] (https://fuuzinho.itch.io/rivers-fable) 
+⭐ Dev in [River's Fable] (https://fuuzinho.itch.io/rivers-fable) 
 </p>
 
 <div Main>
@@ -54,5 +53,5 @@ I expect to help out in whatever i can, right now i just want to improve my prog
 </p>
 
 
-⭐️ Made with help From  [@anandmainali](https://github.com/anandmainali)
+⭐
 
