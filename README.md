@@ -6,7 +6,7 @@
 </div>
   
 
- <img width="1920px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <img width="350px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
@@ -30,13 +30,13 @@ I expect to help out in whatever i can, right now i just want to improve my prog
 
  ### Programming Languages that i'm learning
 
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C#" width="24">] | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="38">]  | 
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C#" width="24"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="38"> 
 |---|---|
  
 ### Tools 🛠️
 
 | [<img src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-Logo-2019.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png" alt="unity" width="24">](https://unity.com)
-|---|---|---|
+|---|---|
 
 ### Github Stats
 
