@@ -1,52 +1,96 @@
-<div>
-  <h2 Align ="center">THIS IS ME RN!!!!!</h2>
-  <img align="center" alt="Coding" width="1920" src="https://i.pinimg.com/originals/49/1e/cf/491ecfcebd2192e29b758ca798717ec6.gif">
-<p align="center">
+<br clear="both">
 
+<h1 align="center">🎗OLÁ EU SOU O DERICK!!!!🎗</h1>
+
+###
+
+<h4 align="left">👉Como diz no titulo... Olá eu sou o Derick!<br> Eu sou um aluno de ensino médio tentando crescer em algo que gosto muito, que é tecnologia. Eu sou Game Dev por 3 anos e estou a cada dia crescendo meu conhecimento, tanto em outras linguagens como no que faço atualmente, espero que vamos nos dar bem!!!</h4>
+
+<h1 align="left">♦Sobre Mim!</h1>
+
+###
+
+<h6 align="left">📚 Curso de jogos na Etec Aristóteles Ferreira<br>🎮 Game Dev no lhano studios<br>🌎Explorando novas linguagens de programação</h6>
+
+###
+
+<h1 align="left">💻Linguagens e programas</h1>
+
+###
+
+<h3 align="left">💡 linguagens e Frameworks</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
-  
- <h1 align="center">Stuff</h1>
- 
-</p>
 
+###
 
-### Hi there i'm Derick and i'm sometimes making something
-<p>
-⭐ Dev in "Ruina abissal"
-</p> 
-<p>
-⭐ Dev in [River's Fable] (https://fuuzinho.itch.io/rivers-fable) 
-</p>
+<h3 align="left">🔨Programas</h3>
 
-<div Main>
- <p>
-I'm a high school Game dev that are exploring new things, currently i'm working in a game called Ruina abissal, when it release check it out!!!
+###
 
-I expect to help out in whatever i can, right now i just want to improve my programming skills and be helpful!!!
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="30" alt="maya logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
 </div>
 
-APPS THAT I USE
+###
 
-| [<img src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-Logo-2019.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png" alt="unity" width="24">](https://unity.com) | [<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.pngg" alt="mysql" width="24">](https://unity.com)
-|---|---|---|
+<h1 align="left">📈Github  Stats</h1>
 
-Programming Languages i currently know
+###
 
-| <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="38"> |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="38">  | 
-|---|---|
+<br clear="both">
 
-Programming Languages that i'm learning
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Fuuu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C#" width="24"> | <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="38"> 
-|---|---|
- 
+###
 
+<h1 align="left">🎈Social</h1>
 
-<h3> Find Me Here </h3>
+###
 
-<p align="center">
-<a href="https://www.linkedin.com/in/derickoliveiradeveloper/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@derickoliveiradeveloper-blue?style=flat&logo=linkedin"></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/derickoliveiradeveloper/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://fuuzinho.itch.io/rivers-fable" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
+  </a>
+</div>
 
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Fuuu.Fuuu&"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Fuuu/Fuuu/output/snake.svg" alt="Snake animation" />
+
+###
