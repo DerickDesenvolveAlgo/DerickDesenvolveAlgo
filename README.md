@@ -115,7 +115,6 @@ No momento estou aprendendo linguagens como C++ e java, quando finalizar meu ens
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fuuu/Fuuu/output/snake.svg" alt="Snake animation" />
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&descAlign=100&descAlignY=100" alt="wave"/>
