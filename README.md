@@ -6,14 +6,18 @@
 </div>
   
 
- <img width="350px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <img width="350px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" " alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
 
 ### Hi there i'm Derick and i'm sometimes making something
-> Dev in "Ruina abissal"
-> Dev in [River's Fable] (https://fuuzinho.itch.io/rivers-fable) 
+<p>
+  > Dev in "Ruina abissal"
+</p> 
+<p>
+  > Dev in [River's Fable] (https://fuuzinho.itch.io/rivers-fable) 
+</p>
 
 <div Main>
  <p>
