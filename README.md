@@ -3,7 +3,7 @@
 <div align="right">
   <img scr="<img width="250" height="480" alt="image" src="https://i.pinimg.com/originals/b1/c7/df/b1c7df75ef47ddb98065000461d40263.gif" alt="dreamcore" min-width="480px" max-width="400px" width="480px" align="right" />
   <h4 align="left">Como diz no titulo... Olá eu sou o Derick!<br> Eu sou um aluno de ensino médio tentando crescer em algo que gosto muito,<br></br>
-  que é tecnologia. Eu sou Game Dev por 3 anos e estou a cada dia crescendo.<br></br>
+que é tecnologia. Eu sou Game Dev por 3 anos e estou a cada dia crescendo.<br></br>
   meu conhecimento, tanto em outras linguagens como no que faço atualmente, espero que vamos nos dar bem!!!
   Meu principal objetivo agora é trabalhar remotamente, não necessariamente na minha área, porém seria bom!<br></br>  
   Eu atualmente atuo de freelancer, aceitando qualquer trabalho party-time(apesar de querer sair desse mundo).<br></br>
